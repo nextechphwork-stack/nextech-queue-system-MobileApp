@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "675517760534",
+    "firebase_url": "https://queue-system-45b56-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "queue-system-45b56",
+    "storage_bucket": "queue-system-45b56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675517760534:android:2c29e35538ba51069b2137",
+        "android_client_info": {
+          "package_name": "com.example.uniqueue_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBoGcO2_AAbmIZylb9_mCYJYkQuNj2atE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675517760534:android:c5bc5e98e397d9df9b2137",
+        "android_client_info": {
+          "package_name": "com.flutlab.queue_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBoGcO2_AAbmIZylb9_mCYJYkQuNj2atE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

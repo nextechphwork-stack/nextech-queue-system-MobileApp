@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Background used while the Flutter engine boots, before our Dart splash
+     screen widget takes over. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/normalBackground" />
+</layer-list>
